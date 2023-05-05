@@ -52,7 +52,7 @@ class _Bmistate extends State<Bmi> {
               ),
             ),
             const SizedBox(
-              height: 15,
+              height: 14,
             ),
             ElevatedButton(
               child: const Text(
